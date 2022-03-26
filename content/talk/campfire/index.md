@@ -1,5 +1,5 @@
 ---
-author: Alison Hill
+author: Max Fourman
 categories:
 - workshop
 date: "2021-01-12"

@@ -5,14 +5,14 @@ role: "FY1 Doctor"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: "Affiliations" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Baillielab
+  url: hhttps://baillielab.net/
+#- name: 
+#  url: 
+#- name: 
+#  url: 
 ---
 
 ** index doesn't contain a body, just front matter above.
