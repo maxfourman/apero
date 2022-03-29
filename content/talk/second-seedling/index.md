@@ -1,5 +1,5 @@
 ---
-author: Alison Hill
+author: Max Fourman
 categories:
 - meetup
 date: "2021-01-01T14:15:59-06:00"
@@ -9,6 +9,6 @@ excerpt: Yet another idea
 layout: single
 location: Online
 subtitle: Testing
-title: A seedling
+title: A further test
 ---
 

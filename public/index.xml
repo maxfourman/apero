@@ -6,7 +6,7 @@
     <description>Recent content on Max Fourman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maxfourman.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maxfourman.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://maxfourman.netlify.app/collection/day02/01-netlify/</link>
@@ -119,6 +119,15 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>A further test content</title>
+      <link>https://maxfourman.netlify.app/talk/seedling/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxfourman.netlify.app/talk/seedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Set up your social</title>
       <link>https://maxfourman.netlify.app/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
@@ -186,7 +195,7 @@ Hello! 👋 hello
     </item>
     
     <item>
-      <title>A seedling</title>
+      <title>A further test</title>
       <link>https://maxfourman.netlify.app/talk/second-seedling/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
       
@@ -201,15 +210,6 @@ Hello! 👋 hello
       
       <guid>https://maxfourman.netlify.app/blog/rmarkdown/</guid>
       <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp,  pch = as.numeric(mlev),  col = mlev)) </description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>https://maxfourman.netlify.app/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      
-      <guid>https://maxfourman.netlify.app/talk/seedling/</guid>
-      <description></description>
     </item>
     
     <item>

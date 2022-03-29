@@ -38,13 +38,22 @@
     <loc>https://maxfourman.netlify.app/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maxfourman.netlify.app/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>https://maxfourman.netlify.app/talk/seedling/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxfourman.netlify.app/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxfourman.netlify.app/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maxfourman.netlify.app/categories/meetup/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maxfourman.netlify.app/talk/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maxfourman.netlify.app/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxfourman.netlify.app/blog/social/</loc>
@@ -77,9 +86,6 @@
     <loc>https://maxfourman.netlify.app/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maxfourman.netlify.app/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://maxfourman.netlify.app/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -104,14 +110,8 @@
     <loc>https://maxfourman.netlify.app/talk/second-seedling/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>https://maxfourman.netlify.app/categories/meetup/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
     <loc>https://maxfourman.netlify.app/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maxfourman.netlify.app/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
     <loc>https://maxfourman.netlify.app/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
