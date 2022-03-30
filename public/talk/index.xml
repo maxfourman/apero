@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks that Last on Max Fourman</title>
+    <title>Teaching content on Max Fourman</title>
     <link>https://maxfourman.netlify.app/talk/</link>
-    <description>Recent content in Talks that Last on Max Fourman</description>
+    <description>Recent content in Teaching content on Max Fourman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maxfourman.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />

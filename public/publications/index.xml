@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Max Fourman</title>
+    <link>https://maxfourman.netlify.app/publications/</link>
+    <description>Recent content in Publications on Max Fourman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maxfourman.netlify.app/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A type I IFN, prothrombotic hyperinflammatory neutrophil signature is distinct for COVID-19 ARDS</title>
+      <link>https://maxfourman.netlify.app/publications/wellcome-type-i-ifn-prothrombotic-hyperinflammatory-neutrophil/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxfourman.netlify.app/publications/wellcome-type-i-ifn-prothrombotic-hyperinflammatory-neutrophil/</guid>
+      <description>My contribution for this project was the design and maintanence of the online case report form using Redcap.</description>
+    </item>
+    
+    <item>
+      <title>Dynamic data-driven meta-analysis for prioritisation of host genes implicated in COVID-19</title>
+      <link>https://maxfourman.netlify.app/publications/scirep-dynamic-data-drive-meta-analysis/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxfourman.netlify.app/publications/scirep-dynamic-data-drive-meta-analysis/</guid>
+      <description>&lt;p&gt;The SARS-CoV-2 virus hijacks cellular machinery in the human host to replicate. Understanding which host factors it depends on to survive may inform the development of new therapies and help prioritise the investigation of repurposed drugs.&lt;/p&gt;
+&lt;p&gt;Host factors can be identified using a variety of experimental methods (CRISPR screens, Protein interaction screens, Genetic Association Studies). We aimed to identify and combine the results of relevant experiments to produce a prioritised list of implicated host genes.&lt;/p&gt;
+&lt;p&gt;We conducted a systematic literature search of experiments identifying host genes implicated in human betacoronavirus infection. We screened 12,586 articles → identified 213 relevant full text articles → included 31 studies in the original meta analysis.&lt;/p&gt;
+&lt;p&gt;We extracted relevant gene lists and combined the results using Meta Analysis by Information Content (MAIC). MAIC uses data-driven gene list weightings to produce a comprehensive ranked list of implicated host genes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic mechanisms of critical illness in COVID-19</title>
+      <link>https://maxfourman.netlify.app/publications/nature-genetic-mechanisms-critical-illness/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxfourman.netlify.app/publications/nature-genetic-mechanisms-critical-illness/</guid>
+      <description>My contribution to this publication was conducting gene-level and pathway analyses using the bioinformatics tool: MAGMA. SNPs were mapped to genes if the SNPs location was within 5 kb up- or down-stream of the gene region (transcription start site -  transcription stop site). The sum of squared SNP Z-statistics was used as the test statistic. The European reference panel of the 1000 Genomes Project was used to estimate LD between SNPs.</description>
+    </item>
+    
+  </channel>
+</rss>

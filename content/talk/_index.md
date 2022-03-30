@@ -3,11 +3,11 @@ author: Max Fourman
 cascade:
   author: Max Fourman
   show_author_byline: true
-  show_comments: false
+  show_comments: true
   show_post_date: true
   show_post_time: true
   sidebar:
-    show_sidebar_adunit: false
+    show_sidebar_adunit: true
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
@@ -23,7 +23,7 @@ sidebar:
   description: "This is a list for your talks, workshops, or \nother events with a
     time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
     out the _index.md file in the /talk folder \nto edit this content. \n"
-  show_sidebar_adunit: false
+  show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   title: Teaching content
