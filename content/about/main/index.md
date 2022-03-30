@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  I have recently complete my MBChB at the University of Edinburgh. During my studies I undertook an intercalated BMedSci in Anaesthesia, Critical Care and Pain Medicine. For my thesis I joined the baillielab and carried out a genomics project looking at genes associated with mortality in sepsis. 
+  I have recently completed my MBChB at the University of Edinburgh. During my studies I undertook an intercalated BMedSci in Anaesthesia, Critical Care and Pain Medicine. For my thesis I joined the baillielab and carried out a genomics project looking at genes associated with mortality in sepsis. 
   
   I made this website using Hugo, blogdown, GitHub, and Netlify. If you want to do the same, follow the instructions [here](https://hugo-apero-docs.netlify.app/start/)
 show_outro: true
