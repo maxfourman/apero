@@ -1,5 +1,6 @@
 ---
 title: Publications
+type: talk
 description: |
   A home for my research publications.
 author: Max Fourman
